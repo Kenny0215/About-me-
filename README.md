@@ -9,8 +9,11 @@ Welcome to my GitHub profile! I'm a student currently furthering Bachelor in Com
 ⚡ Fun fact: Just an ordinary CS student who enjoying the life.
 
 🔧 Technologies & Tools:
+
 Languages: C++, MySQL, SQL, Python, Java.
+
 Frameworks: Coming soon.
+
 Tools: Github.
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat about coding-related question!
